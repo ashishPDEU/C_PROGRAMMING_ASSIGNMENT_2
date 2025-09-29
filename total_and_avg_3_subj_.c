@@ -14,19 +14,15 @@ int main()
         {
             printf("distinction");
         }
-        else if (avg>=70) 
-        {
-             printf("first class");
-        }
          else if (avg>=60) 
         {
              printf("first class");
         } else if (avg>=50) 
         {
-             printf("first class");
+             printf("second class");
         } else if (avg>=35) 
         {
-             printf("first class");
+             printf("third class");
         }
         else 
         {
