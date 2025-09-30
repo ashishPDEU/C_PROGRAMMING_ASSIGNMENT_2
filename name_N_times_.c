@@ -4,7 +4,7 @@ int main() {
     int n;
     printf("enter no:");
     scanf("%d",&n);
-    char name[] = "pranav"; 
+    char name[] = "ashish"; 
 
     for (int i = 0; i < n; i++) {
         printf("%s\n", name);
