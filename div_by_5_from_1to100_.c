@@ -7,7 +7,7 @@ int main() {
    {
        if(i%5==0)
        {
-           printf("%d\n",i);
+           printf("%d\t",i);
        }
    }
 
